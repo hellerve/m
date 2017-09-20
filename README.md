@@ -2,7 +2,7 @@
 
 Yet another machine for body-stripping poetry.
 
-![](https://veitheller.de/static/work_of_fart.png)
+<img src="https://veitheller.de/static/work_of_fart.png" width="250" height="250"></img>
 
 ## Technical details
 
