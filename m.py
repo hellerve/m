@@ -16,7 +16,7 @@ def markov(n, ln, txt, ngrams):
     while True:
         start = random.randint(0, mx)
         if " " in txt[start:]:
-            idx = txt.find(" ") + 1
+            idx = txt[start:].find(" ") + 1
             if idx > mx: continue
             current = txt[idx:idx+n]
             break
